@@ -1,3 +1,5 @@
+package ya.yatv;
+
 import android.app.Application;
 
 import com.sina.sinavideo.sdk.utils.VDApplication;

@@ -32,12 +32,12 @@
         "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\play_ctrl_seek_forward.png"
     },
     {
-        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue_silent.png",
-        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue_silent.png"
-    },
-    {
         "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\net_tip_icon.png",
         "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\net_tip_icon.png"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue_silent.png",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue_silent.png"
     },
     {
         "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\play_ctrl_fullscreen_bg.png",
@@ -76,16 +76,16 @@
         "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\quality_bg_press.png"
     },
     {
-        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\play_ctrl_volume_press_bg.png",
-        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\play_ctrl_volume_press_bg.png"
-    },
-    {
         "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue.png",
         "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\play_ctrl_sound_gestrue.png"
     },
     {
         "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\dlna_icon.png",
         "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\dlna_icon.png"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\play_ctrl_volume_press_bg.png",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\play_ctrl_volume_press_bg.png"
     },
     {
         "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\indicater_sound.png",
