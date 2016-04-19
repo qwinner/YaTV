@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\raw\\config.properties",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\raw\\config.properties"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\raw\\libsplayer.7z",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\exploded-aar\\YaTV\\sinavideo_playercore-master\\unspecified\\res\\raw\\libsplayer.7z"
+    }
+]

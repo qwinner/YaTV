@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\up_to_down_translate.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\up_to_down_translate.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\video_list_fade_from_right.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\video_list_fade_from_right.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\left_to_right_translate2.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\left_to_right_translate2.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\video_list_from_right_in.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\video_list_from_right_in.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\right_to_left_translate.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\right_to_left_translate.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\up_to_down_translate2.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\up_to_down_translate2.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\down_to_up_translate2.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\down_to_up_translate2.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\down_to_up_translate.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\down_to_up_translate.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\right_to_left_translate2.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\right_to_left_translate2.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\zoom_out.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\anim\\left_to_right_translate.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\anim\\left_to_right_translate.xml"
+    }
+]

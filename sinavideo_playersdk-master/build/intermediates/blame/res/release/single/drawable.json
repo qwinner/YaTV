@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\quality_bg.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\quality_bg.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_seekbar_background.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_seekbar_background.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\resolution_textcolor.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\resolution_textcolor.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_ctrl_video_list.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_ctrl_video_list.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\pausebutton.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\pausebutton.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_ctrl_play.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_ctrl_play.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_ctrl_volume_mute.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_ctrl_volume_mute.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_soundseekbar_background.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_soundseekbar_background.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_seekbar_color_bg.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_seekbar_color_bg.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_ctrl_pause.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_ctrl_pause.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_ctrl_volume.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_ctrl_volume.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\ad_silent_selcetor.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\ad_silent_selcetor.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_ctrl_fullscreen.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_ctrl_fullscreen.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\playbutton.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\playbutton.xml"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\release\\drawable\\play_ctrl_back.xml",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\res\\drawable\\play_ctrl_back.xml"
+    }
+]

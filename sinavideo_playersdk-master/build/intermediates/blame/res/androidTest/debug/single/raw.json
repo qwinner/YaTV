@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libsplayer.7z",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\exploded-aar\\YaTV\\sinavideo_playercore-master\\unspecified\\res\\raw\\libsplayer.7z"
+    },
+    {
+        "merged": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\config.properties",
+        "source": "E:\\git\\YaTV\\sinavideo_playersdk-master\\build\\intermediates\\bundles\\debug\\res\\raw\\config.properties"
+    }
+]
